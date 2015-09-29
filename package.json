@@ -1,0 +1,18 @@
+{
+  "name": "MeanStackTutorial",
+  "version": "0.0.1",
+  "description": "POC on Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Mahesh Dontula",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.4",
+    "mongojs": "^1.0.0",
+    "node-inspector": "^0.10.1",
+    "body-parser": "^1.12.4"
+  }
+}
