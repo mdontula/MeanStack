@@ -14,5 +14,8 @@
     "mongojs": "^1.0.0",
     "node-inspector": "^0.10.1",
     "body-parser": "^1.12.4"
+  },
+  "engines" : { 
+    "node" : ">=6.9.1"
   }
 }
